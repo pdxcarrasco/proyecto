@@ -1,3 +1,3 @@
 # Hello world
-## Hola mundo
-### Que hay?
+## Hola Mundo
+### Como estan?
